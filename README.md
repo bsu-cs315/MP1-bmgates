@@ -1,4 +1,4 @@
-# Project 0: Dodge the Creeps!
+# Mini-Project 1: Dodge the Creeps!
 A tutorial implementation by Brayden Gates.
 
 This project follows the [Your First Game tutorial from
